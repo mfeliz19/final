@@ -29,9 +29,7 @@ main {
   overflow-x: hidden;
 }
 
-#landing {
-  animation: left 900ms ease;
-}
+
 
 /* NAV */
 
